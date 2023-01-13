@@ -7,3 +7,5 @@ ear
 rose
 
 earth
+
+hi
