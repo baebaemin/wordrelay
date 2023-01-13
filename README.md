@@ -17,3 +17,5 @@ money
 yes
 
 salt
+
+talk 이거 언제까지 하나요?
